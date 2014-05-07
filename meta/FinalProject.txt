@@ -1,0 +1,88 @@
+
+DELIVERABLES FOR FINAL PROJECT:
+
+Each individual deliverable will be a graded assignment that is weighted the same as an individual assessment.  The Final Project will have its own weighted grade as a whole project. The expectations for each deliverable will be listed above the link to submit below in the moodle modules.
+
+1. Statement of Purpose, Target Market, Page Flow, and Content Inventory
+
+2. 2 sets of Wire-frames for 2 resolutions – landscape and portrait orientation
+
+                        2 phone portrait orientation
+
+                        2 phone landscape orientation
+
+                        2 tablet portrait orientation
+
+                        2 tablet landscape orientation
+
+                        Total 8 wireframes
+
+3. Grid Based Layouts for 2 resolutions 
+
+             Total 8 layouts as above
+
+4. Graphic Elements (video, audio, images, buttons, textures, gradients)
+
+5. Code in basic HTML into jQuery mobile framework
+
+6. Add CSS for Presentation
+
+7. Make it Responsive
+
+8. Validation and Deployment
+
+WEB 125 Final Project -- Workflow
+
+Develop a mobile website using responsive design.
+
+I. Workflow: -- the following represent the general workflow of the final project. The specific portions of the assignments are found in the second section under Deliverables.
+
+A.                    Conceptualize it!
+
+1. Idea– brainstorm on what your mobile site will be and why the choice would make sense for this project. Remember the idea here is not strictly a mobile site. It is a site that will be responsive to the client device. So your site will work on tablets and mobile. But the mobile design will come first and your other designs will cascade from there. 
+
+**this site could also be extended to a desktop site in your free time
+
+2. Content inventory – what content will be needed on your site. You need to organize this content into a hierarchical structure. Do not think so much about pages, strictly content. A good approach would be categories of content, with individual content nodes arranged within the distinct categories. A flow is a way of designing for a mobile site that considers both content and user interaction with the site. Read this article for more detail.
+
+      http://uxdesign.smashingmagazine.com/2012/01/04/stop-designing-pages-start-designing-flows/
+
+3. Layout – design a mobile layout using a grid. Make sure this layout is based on how to best present your content to users. Content should drive your layout choices – not the other way around. The best way to design a layout is by wireframes. It is also best to do your layout with good old pencil and paper. Your mind will appreciate the break from the computer! Remember this is only layout. It is not the time for colors, visual enhancements, typography or logos – those will come later.
+
+4. Integrate content into layout - Main Categories should be accessible from the home page of the mobile site. Sub categories should be accessible from the main category pages. Individual nodes should be accessible from the Sub category pages. I do not want people to have more than three tiers: main category > sub-category > individual node. A good approach to integrate content into your layout is by using a flow chart.
+
+5. Interface Design and considerations - Now that you have integrated your content into your layout you have an interface. Now that we have an interface it is time to start making some fun, and challenging decisions. First and foremost here are the things you should be considering:
+
+· how will my design adapt to larger client device screens
+
+· how will my design adapt to touch screens
+
+· how will my design adapt to keyboard input
+
+· Where is it appropriate to introduce images as part of the interface
+
+**in this course jQuery mobile will be used as a framework for prototyping mobile sites and will help with both the layout and interface design.
+
+B.Code it!
+
+1. jQuery Mobile** - Use jQuery mobile to give you a prototype for agile web development.  Make sure you use the basic jQuery mobile template code. It will provide a framework to develop device agnostic mobile websites more rapidly. You will be styling and creating your site with html and css within the framework.
+
+2. HTML5 Templates
+
+3. Bootstrap
+
+4. Hand-coded Responsive Design
+
+**there are other options for mobile development frameworks, but this is the one we will be utilizing in this course.
+
+3. Development Prototyping - Copy the multi-page code from the jquery mobile site. Then link in the appMobi components with the script tags in the basic appMobi example.
+
+C. Troubleshoot, De-Bug and Deploy
+
+ 1. Validate your markup using the w3 consortium validator.
+
+            2. Make sure your site files are optimized and compressed for web usage. You may even consider minifying your JS, HTML, and CSS files.
+
+            3. Test your site on mobile devices to see how they look, feel and function in the real world.
+
+            4. Upload your site using FTP or SSH to a live apache web server to test it deployed into a live environment. 
